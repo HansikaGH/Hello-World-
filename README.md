@@ -1,4 +1,6 @@
-# Hello-World-
-This is my first repository for practising the Github Flow
+# Hello-World
 <br>
-hello it's hansika currently pursuing a B.Tech degree in computer science
+This is my first repository for practising the Github Flow.
+<br>
+Hello it's hansika currently pursuing a B.Tech degree in computer science specilization in Data Science
+
